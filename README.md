@@ -1,4 +1,5 @@
 # Juego-de-azar-2.0
+//es un codigo de bucle while usando break para terminar el bucle
 <meta charset="UTF-8">
 <h1>JUEGO DE AZAR</h1>
 <script>
